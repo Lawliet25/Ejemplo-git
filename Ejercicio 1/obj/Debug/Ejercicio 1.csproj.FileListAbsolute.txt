@@ -1,0 +1,21 @@
+C:\Users\ferna\Desktop\Progra lab\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\ferna\Desktop\Progra lab\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\ferna\Desktop\Progra lab\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\ferna\Desktop\Progra lab\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\ferna\Desktop\Progra lab\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\ferna\Desktop\Progra lab\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.Cache
+C:\Users\ferna\Desktop\Progra lab\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\ferna\Desktop\Progra lab\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+C:\Users\ferna\Desktop\Progra lab\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\Ciclo 01\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\ferna\Desktop\Ciclo 01\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\ferna\Desktop\Ciclo 01\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+C:\Users\ferna\Desktop\Ciclo 01-19\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\ferna\Desktop\Ciclo 01-19\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\ferna\Desktop\Ciclo 01-19\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
+C:\Users\ferna\Desktop\Ciclo 01-19\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\ferna\Desktop\Ciclo 01-19\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\ferna\Desktop\Ciclo 01-19\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csprojResolveAssemblyReference.cache
+C:\Users\ferna\Desktop\Ciclo 01-19\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\ferna\Desktop\Ciclo 01-19\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\ferna\Desktop\Ciclo 01-19\Progra 1\Guía 5 complementaria\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.Cache
